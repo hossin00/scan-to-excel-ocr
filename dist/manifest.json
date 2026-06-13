@@ -1,0 +1,72 @@
+{
+  "name": "Scan to Excel OCR",
+  "short_name": "Scan to Excel OCR",
+  "description": "Convert paper tables into editable Excel and CSV data",
+  "start_url": "/scan-to-excel-ocr/",
+  "scope": "/scan-to-excel-ocr/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f9fafb",
+  "theme_color": "#22c55e",
+  "lang": "en-US",
+  "categories": [
+    "productivity",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/scan-to-excel-ocr/icons/icon-44x44.png",
+      "sizes": "44x44",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/scan-to-excel-ocr/icons/icon-71x71.png",
+      "sizes": "71x71",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/scan-to-excel-ocr/icons/icon-150x150.png",
+      "sizes": "150x150",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/scan-to-excel-ocr/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/scan-to-excel-ocr/icons/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/scan-to-excel-ocr/icons/icon-310x310.png",
+      "sizes": "310x310",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/scan-to-excel-ocr/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/scan-to-excel-ocr/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/scan-to-excel-ocr/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
